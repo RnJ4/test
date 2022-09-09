@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-09 19:26
+# TODO: Translation updated at 2022-09-09 19:26
 
 # game/script.rpy:56
 translate chinese start_2a9ad3e7:
@@ -850,7 +850,7 @@ translate chinese strings:
 
     # game/script.rpy:71
     old "Please select a restored video clip to view"
-    new ""
+    new "请选择一个已恢复的视频文件进行查看"
 
     # game/script.rpy:71
     old "lovelock_residence_part_1"
@@ -870,5 +870,5 @@ translate chinese strings:
 
     # game/script.rpy:71
     old "Exit Software"
-    new ""
+    new "退出软件"
 
